@@ -155,16 +155,6 @@ border-color: #fff;
     -moz-transform: rotateX(-90deg);
     transform: rotateX(-90deg);
   }
-  .github__link{
-    position: absolute;
-    bottom: 0;
-    left: 20px;
-    cursor: pointer;
-    text-decoration: none;
-  }
-  .github__link:hover{
-    color: #940518;
-  }
 /*Animate background */
 @keyframes Gradient{
     0%{
